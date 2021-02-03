@@ -1,0 +1,7 @@
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\obj\Debug\TcKimlik.csprojAssemblyReference.cache
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\obj\Debug\TcKimlik.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\bin\Debug\TcKimlik.exe.config
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\bin\Debug\TcKimlik.exe
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\bin\Debug\TcKimlik.pdb
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\obj\Debug\TcKimlik.exe
+C:\Users\SEMA\source\repos\TcKimlik\TcKimlik\obj\Debug\TcKimlik.pdb
